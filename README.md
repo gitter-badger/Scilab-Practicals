@@ -12,4 +12,5 @@ A large number of functionalities is included in Scilab: control, simulation, op
 ## 📌 For more experiment index-details and development information please visit Wiki page of this repository.
 ## 📌 If you found any bug or error in codes and documentation please inform me.📢
 ### 📌 Don't forget to share the repository with techies!
+### 📌 If you are interested in **Python programming & Data Science** check my another repositories.
 
