@@ -13,4 +13,4 @@ A large number of functionalities is included in Scilab: control, simulation, op
 ## 📌 If you found any bug or error in codes and documentation please inform me.📢
 ### 📌 Don't forget to share the repository with techies!
 ### If you are interested in [Python Programming for Data Science](https://github.com/pranavkhatale/Python-for-Data-Science-Documentation) then check my other repository.
-
+Repository maintained by [_Pranav Khatale_](https://www.facebook.com/pranav.khatale.94)
