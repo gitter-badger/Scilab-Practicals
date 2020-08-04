@@ -1,8 +1,8 @@
-# **Welcome to the _Scilab-Practicals_ Repository!**🙏😎🎯
+# **Welcome to the _Scilab-Practicals_ Repository!** 🙏😎🎯
 ***
 ![](https://www.scilab.org/sites/default/files/signal-plot.png)
 ***
-In this repository 📁 experiment codes 📎 of _**"Signals and Systems"**_ 📈📉 are documented.📙 This repository is still under construction.🏗 💻
+In this repository 📁 experiment codes 👨‍💻 of _**"Signals and Systems"**_ 📈📉 are documented.📙 This repository is still under construction.🏗 
 ***
 ![](https://www.scilab.org/sites/all/themes/scilab/images/logo.png)
 All the codes are written in [Scilab](https://www.scilab.org/), free and open-source software for Engineers & Scientists.🎓 Available under the [GPL License](https://www.gnu.org/licenses/gpl-2.0.en.html). Scilab includes hundreds of mathematical functions. It has a high-level programming language allowing access to advanced data structures, 2-D and 3-D graphical functions.
