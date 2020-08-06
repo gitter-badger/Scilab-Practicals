@@ -31,4 +31,8 @@
 
    1.   2.   3.
 
---> diary(0)
+--> clear a
+
+--> clear
+
+--> clc
