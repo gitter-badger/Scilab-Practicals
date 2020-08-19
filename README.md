@@ -1,4 +1,7 @@
 # **Welcome to the _Scilab-Practicals_ Repository!** 🙏😎🎯
+
+[![Join the chat at https://gitter.im/ScilabSys/community](https://badges.gitter.im/ScilabSys/community.svg)](https://gitter.im/ScilabSys/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***
 ![](https://www.scilab.org/sites/default/files/signal-plot.png)
 ***
